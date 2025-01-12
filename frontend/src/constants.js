@@ -1,0 +1,1 @@
+export const storageAccountKey = "savedAccount";
